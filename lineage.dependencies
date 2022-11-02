@@ -1,0 +1,6 @@
+[
+    {
+        "repository": "android_device_samsung_sm225f-common",
+        "target_path": "device/samsung/sm225f-common"
+    }
+]
